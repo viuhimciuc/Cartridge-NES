@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Radial_D4.0mm_P1.50mm,1,22uF,
+"C2, C3",C_Disc_D3.0mm_W1.6mm_P2.50mm,2,0.1uF,
+CART1,PCB_4-CART-72-2.50-CONN,1,EDGE-CONN-72-PIN-PCB_4,
+JP3,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,1,128KB,
+JP4,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,1,256KB,
+U1,DIP-32_W15.24mm,1,SST39SF020,
+U2,DIP-28_W15.24mm,1,AS6C6264,
+U3,DIP-16_W7.62mm,1,6113B1,
+U4,DIP-16_W7.62mm,1,74LS161,
+U5,DIP-14_W7.62mm,1,74LS32,
