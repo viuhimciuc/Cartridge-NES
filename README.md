@@ -26,12 +26,12 @@ The project organizes board designs by memory mapper architectures and utility p
 ## 📸 PCB Gallery
 
 <p align="center">
-  <img src="Discrete logic boards using/NES-AxROM/NES-AxROM.png" alt="AxROM" width="31%" onerror="this.style.display='none'">
-  <img src="Discrete logic boards using/NES-NROM/NES-NROM.png" alt="NROM" width="31%" onerror="this.style.display='none'">
-  <img src="Discrete logic boards using/NES-UxROM/NES-UxROM.png" alt="UxROM" width="31%" onerror="this.style.display='none'">
-  <img src="MMC1 boards NES-SxROM/NES-SLROM/NES-SLROM.png" alt="MMC1 SLROM Board" width="31%" onerror="this.style.display='none'">
-  <img src="MMC3 boards NES-TxROM/NES-TLROM/NES-TLROM.png" alt="MMC3 TLROM Board" width="31%" onerror="this.style.display='none'">
-  <img src="MMC3 boards NES-TxROM/NES-TSROM/NES-TSROM.png" alt="MMC3 TSROM Board" width="31%" onerror="this.style.display='none'">
+  <img src="Discrete logic boards using/NES-AxROM/NES-AxROM_top.png" alt="AxROM" width="31%" onerror="this.style.display='none'">
+  <img src="Discrete logic boards using/NES-NROM/NES-NROM_top.png" alt="NROM" width="31%" onerror="this.style.display='none'">
+  <img src="Discrete logic boards using/NES-UxROM/NES-UxROM_top.png" alt="UxROM" width="31%" onerror="this.style.display='none'">
+  <img src="MMC1 boards NES-SxROM/NES-SLROM/NES-SLROM_top.png" alt="MMC1 SLROM Board" width="31%" onerror="this.style.display='none'">
+  <img src="MMC3 boards NES-TxROM/NES-TLROM/NES-TLROM_top.png" alt="MMC3 TLROM Board" width="31%" onerror="this.style.display='none'">
+  <img src="MMC3 boards NES-TxROM/NES-TSROM/NES-TSROM_top.png" alt="MMC3 TSROM Board" width="31%" onerror="this.style.display='none'">
   <img src="NES MASK ROM/CHR_ROM/MASK_CHR_ROM_256KB_Top_32pin/MASK_CHR_ROM_256KB_Top_32pin.png" alt="MASK CHR-ROM 256KB" width="31%" onerror="this.style.display='none'">
   <img src="NES MASK ROM/CHR_ROM/MASK_CHR_ROM_256KB_Half-Holes_Bottom_32pin/MASK_CHR_ROM_256KB_Half-Holes_Bottom_32pin.png" alt="MASK CHR-ROM Half-Holes 256KB" width="31%" onerror="this.style.display='none'">
   <img src="NES MASK ROM/PRG_ROM/MASK_PRG_ROM_256KB_Top_32pin/MASK_PRG_ROM_256KB_Top_32pin.png" alt="MASK PRG-ROM 256KB" width="31%" onerror="this.style.display='none'">
