@@ -9,6 +9,20 @@ An open-source collection of hardware design files and schematics for custom, fu
 
 ---
 
+## 📂 Repository Structure
+
+The project organizes board designs by memory mapper architectures and utility profiles:
+
+*   **📁 `Discrete logic boards using`** – Simple mapper solutions utilizing standard 74-series logic chips (e.g., AxROM, UxROM, NROM configurations).
+*   **📁 `MMC1 boards NES-SxROM`** – Designs compatible with the Nintendo **MMC1** ASIC mapper family supporting multi-directional scrolling and battery-backed saves.
+*   **📁 `MMC3 boards NES-TxROM`** – Performance configurations adapting the highly versatile **MMC3** ASIC architecture for scanline IRQ counters and larger ROM sizes.
+*   **📁 `NES MASK ROM`** – Hardware breakout and adapter boards targeting pin-compatible conversions from modern Flash/EPROM/EEPROM chips to original NES hardware slots.
+*   **📊 Documentation Assets:**
+    *   `Mappers.xls` – Comparison matrices tracking hardware compatibility, signaling, and line configurations.
+    *   `pin_MMC3.xls` – Precision mapping registers and Pinout details targeting the MMC3 layout.
+
+---
+
 ## 📸 PCB Gallery
 
 <p align="center">
@@ -23,20 +37,6 @@ An open-source collection of hardware design files and schematics for custom, fu
   <img src="NES MASK ROM/PRG_ROM/MASK_PRG_ROM_256KB_Top_32pin/MASK_PRG_ROM_256KB_Top_32pin.png" alt="MASK PRG-ROM 256KB" width="31%" onerror="this.style.display='none'">
   <img src="NES MASK ROM/PRG_ROM/MASK_PRG_ROM_256KB_Half-Holes_Bottom_32pin/MASK_PRG_ROM_256KB_Half-Holes_Bottom_32pin.png" alt="MASK PRG-ROM Half-Holes 256KB" width="31%" onerror="this.style.display='none'">
 </p>
-
----
-
-## 📂 Repository Structure
-
-The project organizes board designs by memory mapper architectures and utility profiles:
-
-*   **📁 `Discrete logic boards using`** – Simple mapper solutions utilizing standard 74-series logic chips (e.g., AxROM, UxROM, NROM configurations).
-*   **📁 `MMC1 boards NES-SxROM`** – Designs compatible with the Nintendo **MMC1** ASIC mapper family supporting multi-directional scrolling and battery-backed saves.
-*   **📁 `MMC3 boards NES-TxROM`** – Performance configurations adapting the highly versatile **MMC3** ASIC architecture for scanline IRQ counters and larger ROM sizes.
-*   **📁 `NES MASK ROM`** – Hardware breakout and adapter boards targeting pin-compatible conversions from modern Flash/EPROM/EEPROM chips to original NES hardware slots.
-*   **📊 Documentation Assets:**
-    *   `Mappers.xls` – Comparison matrices tracking hardware compatibility, signaling, and line configurations.
-    *   `pin_MMC3.xls` – Precision mapping registers and Pinout details targeting the MMC3 layout.
 
 ---
 
