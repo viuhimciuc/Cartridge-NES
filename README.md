@@ -5,7 +5,7 @@
 [![Repo Stars](https://img.shields.io/github/stars/viuhimciuc/Cartridge-NES?style=flat-square&logo=github)](https://github.com/viuhimciuc/Cartridge-NES/stargazers)
 [![Repo Forks](https://img.shields.io/github/forks/viuhimciuc/Cartridge-NES?style=flat-square&logo=github)](https://github.com/viuhimciuc/Cartridge-NES/network/members)
 
-An open-source collection of hardware design files and schematics for custom, functional **Nintendo Entertainment System (NES)** cartridge printed circuit boards (PCBs). This repository includes boards based on original discrete logic designs, advanced memory management controllers (MMCs), and mask ROM replacement utilities created inside **KiCad**.
+An open-source collection of hardware design files and schematics for custom, functional **Nintendo Entertainment System (NES)** cartridge printed circuit boards (PCBs), using the [SST39SF010A](https://www.microchip.com/en-us/product/sst39sf010a), [SST39SF020A](https://www.microchip.com/en-us/product/sst39sf020a), [SST39SF040](https://www.microchip.com/en-us/product/sst39sf040) memory chip. This repository includes boards based on original discrete logic designs, advanced memory management controllers (MMCs), and mask ROM replacement utilities created inside **KiCad**.
 
 ---
 
